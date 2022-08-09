@@ -220,6 +220,7 @@ body{
 #product1 .pro img{
 	width: 100%;
 	border-radius: 20px;
+	border: 1px solid #1a1a1a;
 }
 
 #product1 .pro .des{
